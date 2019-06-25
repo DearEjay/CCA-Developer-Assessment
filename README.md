@@ -9,11 +9,11 @@
 
 2. Clone the Repository
 
-    Use the SSH link to download the repo using `git clone git@gitlab.com:fall17-group3/tempeturs-frontend.git`.
+    Use the SSH link to download the repo using `git clone git@github.com:DearEjay/CCA-Developer-Assessment.git`.
 
     **OR**
 
-    Use the HTTPS link to download the repo using `git clone https://gitlab.com/fall17-group3/tempeturs-frontend.git`.
+    Use the HTTPS link to download the repo using `git clone https://github.com/DearEjay/CCA-Developer-Assessment.git`.
 
 3. Install Dependencies
 
