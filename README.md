@@ -36,6 +36,7 @@
 2. API specific route logic (i.e. authentication, users, posts) contained in `CCA Assessent/src/routes/api` folder, 
 3. Created one main ExpressRouter from all exported routers at `CCA Assessent/src/routes/router.js`  for scaliability and reusability
 
+`
 CCA Assessment/
 ├── CCA Backend Technical  Assessment.pdf
 ├── README.md
@@ -55,4 +56,4 @@ CCA Assessment/
         │   ├── posts.js
         │   └── users.js
         └── router.js
-
+`
