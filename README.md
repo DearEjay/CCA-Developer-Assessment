@@ -21,6 +21,10 @@
 
     Run `npm install` in the top level directory of the project (where `package.json` is) to install dependencies.
 
+4. Add values to `CCA Assessment/.env.example`
+    - DB_PASSWORD=testpassword
+    - DB_USERNAME=testuser
+
 5. Run the Development Server
 
 
