@@ -42,8 +42,8 @@
 3. Created one main ExpressRouter from all exported routers at `CCA Assessent/src/routes/router.js`  for scaliability and reusability
 
 ```bash
-CCA\ Assessment/
-├── CCA\ Backend\ Technical\ Assessment.pdf
+CCA Assessment/
+├── CCA Backend Technical Assessment.pdf
 ├── README.md
 ├── dist
 │   ├── index.js
