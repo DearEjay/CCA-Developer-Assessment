@@ -21,7 +21,7 @@
 
     Run `npm install` in the top level directory of the project (where `package.json` is) to install dependencies.
 
-4. Create a `.env` file in the project's root directory with the following key-value pairs: 
+4. Create a `.env` file (`$ touch .env`) in the project's root directory and copy the following safe-to-share key-value pairs: 
     - PORT=3000
     - DB_PASSWORD='gp6x8B5s2cogVgv4'
     - DB_USERNAME='testuser'
