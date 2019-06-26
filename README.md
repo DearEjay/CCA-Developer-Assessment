@@ -40,3 +40,25 @@
 1. Organized file structure to contain routes in unified folder at `CCA Assessent/src/routes`, 
 2. API specific route logic (i.e. authentication, users, posts) contained in `CCA Assessent/src/routes/api` folder, 
 3. Created one main ExpressRouter from all exported routers at `CCA Assessent/src/routes/router.js`  for scaliability and reusability
+
+```bash
+CCA\ Assessment/
+├── CCA\ Backend\ Technical\ Assessment.pdf
+├── README.md
+├── dist
+│   ├── index.js
+│   └── index.js.map
+├── package-lock.json
+├── package.json
+└── src
+    ├── app.js
+    ├── models
+    │   ├── Post.js
+    │   └── User.js
+    └── routes
+        ├── api
+        │   ├── auth.js
+        │   ├── posts.js
+        │   └── users.js
+        └── router.js
+```
